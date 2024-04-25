@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-   <div className="bg-customPurple mx-auto max-w-[1920px] border-black flex flex-row justify-between px-2 sm:px-10 py-4 ">
+   <div className="bg-customPurple mx-auto max-w-[1560px] border-black flex flex-row justify-between px-2 sm:px-10 py-4 ">
     <div>
       <div>Logo Image</div>
     </div>

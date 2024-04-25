@@ -8,7 +8,9 @@ export default {
     extend: {
       colors: {
         customPurple: '#7100b8',
-        customLightPurple:'#9300f5'
+        customLightPurple: '#9300f5',
+        lightText: '#00bbff',
+        hotpink: '#FF00FF'
       },
     },
   },
